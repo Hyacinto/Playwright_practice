@@ -2,7 +2,9 @@
 
 # Playwright Practice Project
 
-This project is a practice setup for using Playwright with Python. It includes various dependencies and tools to help automate and test web applications.
+This project is a setup for using Playwright with Python/ Pytest.
+
+The aim was to get to know the Playwright framework and practice using it. I also wanted to check my work by turning the exercises into test cases.
 
 ## Built with:
 
