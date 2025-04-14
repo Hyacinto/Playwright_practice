@@ -1,6 +1,19 @@
+![Header](playwright_playground.png)
+
 # Playwright Practice Project
 
 This project is a practice setup for using Playwright with Python. It includes various dependencies and tools to help automate and test web applications.
+
+## Built with:
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
+[![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+
+[![Playwright](https://img.shields.io/badge/Playwright-2B2D42?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+
+
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox/)
 
 ## Cloning the Repository
 
@@ -18,28 +31,6 @@ The project dependencies are listed in the `requirements.txt` file. To install t
 ```bash
 pip install -r requirements.txt
 ```
-
-## Dependencies
-
-The project uses the following main dependencies:
-
-- `colorama==0.4.6`
-- `greenlet==3.1.1`
-- `iniconfig==2.0.0`
-- `MouseInfo==0.1.3`
-- `packaging==24.2`
-- `playwright==1.50.0`
-- `pluggy==1.5.0`
-- `PyAutoGUI==0.9.54`
-- `pyee==12.1.1`
-- `PyGetWindow==0.0.9`
-- `PyMsgBox==1.0.9`
-- `pyperclip==1.9.0`
-- `PyRect==0.2.0`
-- `PyScreeze==1.0.1`
-- `pytest==8.3.5`
-- `pytweening==1.2.0`
-- `typing_extensions==4.12.2`
 
 ## Usage
 
